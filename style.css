@@ -1,0 +1,38 @@
+* {
+    font-family:sans-serif;
+}
+.disc {
+    text-align: center;
+}
+.disc_table {
+    border : 2px solid grey;
+    margin-top: 1rem;
+    border-collapse: collapse;
+    font-size: 14px;
+    text-align: center;
+     width: 1034px;
+     margin: auto;
+
+}
+thead tr td {
+    border: solid 2px white;
+    color: white;
+    background-color: #4d2121;
+    padding: 0 12px 0 12px;
+
+}
+tbody tr td {
+    border: solid 2px black;
+}
+.product {
+    margin-top: 2rem;
+    
+}
+#atc {
+background-color: green;
+
+}
+#atc a {
+    color: white;
+    text-decoration: none;
+}
